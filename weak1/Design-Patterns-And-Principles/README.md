@@ -3,10 +3,15 @@
 ---
 
 ## 🔹 Hands-On Exercise 1: Singleton Pattern
+# Module: Design Patterns and Principles
+
+---
+
+## 🔹 Hands-On Exercise 1: Singleton Pattern
 **Scenario:** Ensure a logging utility class has only one instance.
 
 ### Successful Output:
-![Exercise 1 Output](Hands-On-exercise-1/images/exercise1-output.png)
+![Exercise 1 Output](images/exercise1-output.png)
 
 ---
 
@@ -14,5 +19,4 @@
 **Scenario:** Create different types of documents using a Document Factory.
 
 ### Successful Output:
-![Exercise 2 Output](Hands-On-exercise-1/images/exercise2-output.png)
-
+![Exercise 2 Output](images/exercise2-output.png)
