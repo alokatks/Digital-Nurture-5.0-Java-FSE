@@ -8,4 +8,5 @@ Implemented a basic Spring application for Library Management using XML-based de
 - Verified Spring IoC container loading via `MainApp`
 
 ## Output
-![Exercise Output](images/exercise1-output.png)
+![Exercise Output](## Output
+![Exercise Output](images/exercise1-output.png))
