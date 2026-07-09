@@ -10,6 +10,8 @@
     <groupId>com.nurture</groupId>
     <artifactId>Digital-Nurture-5.0-Java-FSE</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
