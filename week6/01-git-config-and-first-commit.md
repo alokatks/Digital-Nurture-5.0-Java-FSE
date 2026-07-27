@@ -6,9 +6,11 @@
 
 
 
-\## Steps \& Commands
+\## Steps \& commands
 
 
+
+```
 
 \# 1. Verify Git is installed
 
@@ -24,7 +26,7 @@ git config --global user.email "your-email@example.com"
 
 
 
-\# 3. (Optional) Set Notepad++ as the default editor
+\# 3. (Optional) set Notepad++ as the default editor
 
 git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
@@ -46,17 +48,19 @@ echo "Hello Git" > welcome.txt
 
 
 
-\# 6. Stage and commit
+\# 6. Stage, commit
 
 git status              # welcome.txt shows as untracked
 
 git add welcome.txt
 
-git status              # now staged (green)
+git status               # now staged (green)
 
 git commit -m "Initial commit: add welcome.txt"
 
 git log
+
+```
 
 
 
